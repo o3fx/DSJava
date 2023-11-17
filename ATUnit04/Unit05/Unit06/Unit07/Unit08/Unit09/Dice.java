@@ -8,7 +8,6 @@ public class Dice {
         int min = 1;
         double r = 0;
         r = Math.floor(Math.random() * (max - min + 1));
-        System.out.println(r);
 
         if (r == 1) {
             System.out.println("+-------+");
@@ -46,6 +45,8 @@ public class Dice {
             System.out.println("| x   x |"); 
             System.out.println("| x   x |"); 
             System.out.println("+-------+");  
+        } else if (r == 0) {
+            System.out.println("Joker");
         }
     }
 }
