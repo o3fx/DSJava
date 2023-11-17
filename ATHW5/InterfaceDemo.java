@@ -1,8 +1,11 @@
 interface Lock {
-    void lock();
-    void unlock();
-    boolean getLock();
+    public void lock();
+
+    public void unlock();
+
+    public boolean getLock();
 }
+
 
 class Padlock implements Lock {
     boolean isLocked = false;
