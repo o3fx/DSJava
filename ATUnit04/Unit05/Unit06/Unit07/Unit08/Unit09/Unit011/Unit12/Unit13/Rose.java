@@ -12,7 +12,7 @@ public class Rose {
      * what is drawn in the JFrame.
      */
     public static void draw(Graphics g) {
-        int steps = 10000;
+        int steps = 100000;
         // Place holder for math.pi, fix later
         double delta = (2.0 * Math.PI) / steps;
         double theta = 0;
