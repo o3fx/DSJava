@@ -3,6 +3,7 @@ package Unit05.Unit06.Unit07.Unit08.Unit09;
 import java.util.Scanner;
 
 public class TestAVG {
+    
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); 
             double value;
