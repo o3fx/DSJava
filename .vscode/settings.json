@@ -10,5 +10,5 @@
         "AT08",
         "AT05.java",
         "Unit6/Lesson16"
-    ]
+    "java.debug.settings.onBuildFailureProceed": true
 }
