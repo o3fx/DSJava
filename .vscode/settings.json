@@ -1,9 +1,13 @@
 {
     "java.project.sourcePaths": [
+        "Unit6/Project",
+        "Unit6/Lesson17",
+        "Unit6/Lesson15",
         "ATUnit04",
         "ATHW6",
         "ATHW5",
         "AT08",
-        "AT05.java"
+        "AT05.java",
+        "Unit6/Lesson18"
     ]
 }
