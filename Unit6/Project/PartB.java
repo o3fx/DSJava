@@ -21,9 +21,9 @@ public class PartB {
         int j = 0;
         for (int i = 0; i < numbers.size(); i++) {
             if (i % 2 == 0) {
-                j += numbers.get(i);
+                j = j + numbers.get(i);
             } else {
-                j -= numbers.get(i);
+                j = j - numbers.get(i);
             }
             }
             System.out.println("The answer is = " + j);
