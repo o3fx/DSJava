@@ -23,6 +23,6 @@ public class c {
                 }
             }
     }
-    System.out.println("Do you want to drop the lowest score? ")
+    System.out.println("Do you want to drop the lowest score? ");
 }
 }

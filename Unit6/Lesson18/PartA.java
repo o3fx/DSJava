@@ -12,17 +12,12 @@ public class PartA {
             } else {
                 String name = input.next();
                 names.add(name);
-                System.out.println(names);
             }
         }
-        //for(int i = 0; i < names.length)
-        /*names.add("Emily");
-        names.add("Bob");
-        names.add("Cindy");
-        */
-        System.out.println(names);
-        //String name1 = names.get(i);
-        //for (String name:names) {
-        //}
-}
+        System.out.println("Your names: ");
+        for (String name : names) {
+            System.out.println(name);
+
+        }
+    }
 }
