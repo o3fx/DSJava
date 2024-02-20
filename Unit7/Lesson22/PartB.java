@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PartB {
    public static void main(String[] args) {
        try {
-           File file = new File("yob.txt");
+           File file = new File("birthyears.txt");
            Scanner scanner = new Scanner(file);
 
            while (scanner.hasNextLine()) {
