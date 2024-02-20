@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Unit6/Project",
+        "Unit6/Lessson16",
         "Unit6/Lesson18",
         "Unit6/Lesson17",
         "Unit6/Lesson15",
@@ -9,6 +10,7 @@
         "ATHW5",
         "AT08",
         "AT05.java",
-        "Unit6/Lesson16"
+        "Unit7"
+    ],
     "java.debug.settings.onBuildFailureProceed": true
 }
